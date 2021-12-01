@@ -1,4 +1,4 @@
-1package com.example.glitsapp10;
+package com.example.glitsapp10;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
