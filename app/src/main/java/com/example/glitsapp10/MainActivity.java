@@ -19,7 +19,6 @@ import com.mapbox.mapboxsdk.maps.Style;
 
 
 public class MainActivity extends AppCompatActivity {
-
     private final int PERMISSION_READ_STATE = 0;
     private boolean callMap = false;
     private MapView mapView;
